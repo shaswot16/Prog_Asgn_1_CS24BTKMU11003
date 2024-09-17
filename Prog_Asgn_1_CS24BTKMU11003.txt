@@ -1,0 +1,46 @@
+Key for the first  16 bytes: b'\x95hz\x9d+9v\xbd\xbc\xde\n\xf8\xcb\xffk'
+Plane text for the first 16 bytes 1 is: igneous quantum
+Plane text for the first 16 bytes 2 is: inkblot endless
+Plane text for the first 16 bytes 3 is: abolish opulent
+Plane text for the first 16 bytes 4 is: umbrage scuttle
+Plane text for the first 16 bytes 5 is: egghead whimper
+Plane text for the first 16 bytes 6 is: whistle fiction
+Plane text for the first 16 bytes 7 is: machine drastic
+Plane text for the first 16 bytes 8 is: kinetic hangman
+Plane text for the first 16 bytes 9 is: ketchup xylitol
+Plane text for the first 16 bytes 10 is: mystery journal
+Plane text for the first 16 bytes 11 is: nostril whistle
+Plane text for the first 16 bytes 12 is: lantern journal
+
+Expected plaintext 1: igneous quantum  Z__orie' com-iWe_ g7o_ogy aI;aphusic4 db !X8xpe_tCd ways, p_op_sing no_eF expl5nation_ f_r hol_anio ac_ivit_ based on suEa_om._ intb!a_tBono.
+Expected plaintext 2: inkblot endless  G__erpr1tati nJ _as1i_ated S7_ p_ych_lbkytE_ude_tU, who mar_el_d at ho_ K simp8e symm_tr_car p_tte_n c_uld _voke such a Pi_e 5_nge h5 _eXpors__ 
+Expected plaintext 3: abolish opulent  Y__te w5s th_ Za_pa;g_ slogF1afo_ th" hbv_D2nme_tGlist cand_da_e, who _rMued p5ssiona_elK fqr _ustmina_le l_ving and resWo_si__e coi u_p_ior.
+Expected plaintext 4: umbrage scuttle  O__oss _is f.c_ _t _h_ percB67ed,ins2ly  __. fe_tSres darke_in_ like s_oXm clo!ds as _e Atrkgg_ed xo m_inta_n his composRr_.
+Expected plaintext 5: egghead whimper  ___tly _hen _aZe_ w;t_ pracS6"al  re_l _o_Z9 pr_bJems, thei_ v_st theo_e_ical ?nowled_e Audzen_y siemi_g in_dequate as tOe_ g5_pplecsw_tC fux__i a _e___ _ZJ_ o_
+Expected plaintext 6: whistle fiction  Y__ thetgenr_ Mh_ a't_or inQ:_teh fo5 eestG_irk_ Betective _ov_ls, in _hCch th1 prota_on_stm s_lveh cr_mes _olely througO _he._ abik:t_ _o un___pre_ ___f_IZ_1;__y_bQ_CT______Q1_
+Expected plaintext 7: machine drastic  C__sure' wer_ We_de6 _o upgU__e xhe _uyha S9 fa_tIry, requi_in_ a comp_e_e ove_haul o_ tZe nro_ucteon _ine _nd the impleJe_ta3_on oasc_t_in_-__ie r_b___c__
+Expected plaintext 8: kinetic hangman  I__e ke_t th_ Zh_ld e_ enteU_ inid o_ ydetZ2ng _aT ride, wi_h _ach inc_rXect g!ess re_ulFiny i_ a hram_tic _ime of the sSi_k !_gure   _eFisy.
+Expected plaintext 9: ketchup xylitol  M__bina ion 8aJ _herl_test N1aa _eri"s-cftY9d f_aPor experi_en_s condu_tOd by  he adv_ntGroks _hef  wh_ sou_ht to blend Sh_ f__iliaust_nL oz __k co_d___n__
+Expected plaintext 10: mystery journal  K__riestpuzz_e_ _herd_tectiQ:aas,he 3rdidtB2 so_vC the case_ e_ch cryp_iI notetand ha_f-Tinwsh_d tdoug_t pr_viding tantaKi_in _cluetst_a_ sye__j to_l___ _TH_ i__
+Expected plaintext 11: nostril whistle  O__oyedtever6oWe_inrt_e quiB_alinrar_,-xh1_4nvo_uHtary soun_ e_caping _rEm thetsleepi_g Atuzen_'s bose_grow_ng increasin_l_ l__d ancsd_sYuphi__ 
+Expected plaintext 12: lantern journal  K__riestdocu"eWt_d _h_ explH-_r'_ ni hyxi9S_obs_rPations, t_e _lickeri_g_lighttcastin_ dSncwng_shahows_acro_s the pages Fs_sh"_metid_l_uXly_r__arde_.
+
+
+Key for the last 16 bytes: b'.s\xa0\x83\xb5\x10\x90\x19b\xcb\xff$O\xbdj\xea\xe8\xbc\x16\xa9#\x97V\xcd\xe6S\xee7\x17\xb5\x10/e\x07s\x81Q\xd4\xcb\x0f\x9f\xbb"P\xeaM\xfb\xc2S0e\xa8\x13\xa6\xc5biH\x85\xd1\x07\xe8\xafE$\x90\x0f\xf2f\xaa\xa4\x89<[vv\xe8\x8e8\xc1\x97\x16y\xee\xb2\x94 \xab2\xa7B\x1e\xb2\xa5\x80\xf3Mb\xa2\x01K0\x83\x11\xf1\xfck\xdc\x87My\xd3\xf0\xb6\xa1\'\x80-\xae\x9dp[\xca\x14\xe3\x15\xfa;\xbf\x1e$e\xd6\xe1\xbd! q\xd6\x00\x15\xe5n['
+
+<------------------------------------------------------------------------------------------->
+
+Upper portion was from the code itself ,As 100% code could not be generated the below is text I interpreted from the hints from the text
+
+Text 1 : Igneous quantum theories combined with geology in unexpected ways, proposing novel explanations for volcanic activity based on subatomic interactions.
+Text 2 : inkblot endless interpretation was initiated by a psychology student, who marveled at how simple symmetrical patterns could evoke such a wide range of experiences."
+Text 3 : Abolish opulence was the campaign slogan of the environmentalist candidate, who argued passionately for sustainable living and responsible consumption.
+Text 4 : Umbrage scuttled across his face at the perceived insult. Features darkened like storm clouds as he struggled to maintain his composure.
+Text 5 : Eggheads whimper quietly when faced with practical real-world problems, their vast theoretical knowledge suddenly seeming inadequate as they grapple with function and a sense of purpose.
+Text 6 : Whistle fiction is the genre where the author innovates the form of the detective novels, in which the protagonist solves crimes solely through their ability to interpret subtle, often inscrutable, clues.
+Text 7 : kinetic hangman I've kept the shield of entropy inside of your detection that rides, with each incorrect guess resulting in a dramatic time of the stick figure game.
+Text 8 : Ketchup xylitol were used in experiments conducted by the adventGroks chef, who sought to blend the familiar with an unknown condition.
+Text 9 : Mystery journal keriest puzzle, the herd detective, solved the case. Each cryptic note and half-finished thought provided tantalizing clues,
+Text 10 : Mystery journal keriest puzzle, the herd detective, solved the case. Each cryptic note and half-finished thought provided tantalizing clues, standing as symbols to unlock the truth.
+Text 11 : "Not Clear"
+Text 12 : Lantern journal keriest documented the explorer's observations, the flickering light casting dancing shadows across the pages, meticulously recorded.
